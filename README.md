@@ -33,13 +33,13 @@
 - I love playing video games - especially with friends  :video_game:
 - Getting back into cooking nice food :ramen:
 - Being a scout leader and teaching children fun things :tent:
-
+<!--
 <h2 align="center">
   Socials:
 </h2>
 
 
-<!--
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
