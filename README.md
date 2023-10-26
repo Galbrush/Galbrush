@@ -28,11 +28,11 @@
 ### I have had fun with these projects: 
 - Overengineered recipe site
 - Finding the perfect Wordle starter word
-- 
 
 ### I enjoy:
-- I love playing video games - especially with friends
-- Getting back into cooking nice food.
+- I love playing video games - especially with friends  :video_game:
+- Getting back into cooking nice food :ramen:
+- Being a scout leader and teaching children fun things :tent:
 
 <h2 align="center">
   Socials:
