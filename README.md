@@ -28,6 +28,7 @@
 ### I have had fun with these projects: 
 - Overengineered recipe site
 - Finding the perfect Wordle starter word
+- Bulk renaming files on my computer for speeding up tedious tasks
 
 ### I enjoy:
 - I love playing video games - especially with friends  :video_game:
